@@ -10,7 +10,7 @@ by Jifeng Dai, Yi Li, Kaiming He, Jian Sun.
 ### Installation
 1. Clone the this repository
     ```bash
-    git clone git@github.com:longcw/faster_rcnn_pytorch.git
+    git clone https://github.com/PureDiors/pytorch_RFCN.git
     ```
 
 2. Build the Cython modules for nms and the psroi_pooling layer
